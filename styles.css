@@ -58,6 +58,13 @@ h1 {
     font-style: normal;
 }
 
+h1 a,
+h1 a:hover {
+    text-decoration: none;
+    color: inherit;
+    font-weight: 600;
+}
+
 main {
     max-width: 700px;
 }
